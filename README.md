@@ -30,6 +30,8 @@ It is recommended you run the solution from a jupyter notebook. Please visit htt
 
 ## Project Motivation
 
+Selling goods and services online has become the core business strategy of most companies today. It is crucial to find out which individuals are most likely to become customers for a company. Distinguishing the right customers to sell products allows the company to reach only those potential customers and greatly save resources.
+This project seeks to use exploratory data analysis and unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of a mail-order company in Germany. This would enable the the company to target the marketing campaign efficiently and likely know individuals that will becomes customers of the company.
 
 ## Files
 
