@@ -50,6 +50,13 @@ This project seeks to use exploratory data analysis and unsupervised learning te
 
 
 ## Results
+
+Adaboost Classifier was choosen for this project
+
+Scoring of the chosen algorithm
+![alt text](https://github.com/ian0549/Customer-Segmentation-Report/blob/main/scoring.png)
+
+
 The main findings can be found at the blog post available [here](https://iancecilakoto.medium.com/customer-segmentation-using-supervised-and-unsupervised-learning-4b586523b8a6)
 
 ## Licensing, Authors, and Acknowledgements
