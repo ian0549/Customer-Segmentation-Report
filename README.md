@@ -35,6 +35,19 @@ This project seeks to use exploratory data analysis and unsupervised learning te
 
 ## Files
 
+- Arvato Project Workbook.ipynb # the project
+
+- Arvato Project report.html  # the project report
+
+- DIAS Attributes - Values 2017 (1).xlsx  # info about dataset
+
+- DIAS Information Levels - Attributes 2017 (1).xlsx  # info about dataset
+
+- README.md
+
+- submission.csv # predicted response for kaggle submission
+
+
 
 ## Results
 The main findings can be found at the blog post available [here]('')
