@@ -37,7 +37,7 @@ This project seeks to use exploratory data analysis and unsupervised learning te
 
 
 ## Results
-
+The main findings can be found at the blog post available [here]('')
 
 ## Licensing, Authors, and Acknowledgements
 Credit goes to Arvato Financial Services for giving the data 
